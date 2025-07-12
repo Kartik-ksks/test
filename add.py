@@ -1,4 +1,6 @@
 new=129;
 x = 10;;
 ijscnjn
-jwndvicundcuw
+jwndvicundcu
+x = 10;
+jndcjnw;
